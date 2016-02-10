@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidMySQLapp</string>
+    <string name="ip_address">192.168.0.8</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Enter your username</string>
+    <string name="password">Enter your password</string>
+    <string name="name">Enter your name</string>
+    <string name="log_form">LOGIN FORM</string>
+    <string name="reg_form">REGISTER FORM</string>
+</resources>
